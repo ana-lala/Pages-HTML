@@ -1,12 +1,12 @@
-##This pages are for study uses
+## This pages are for study uses
 
-###Hello My name is: Ana Laura and these are my first works with front end pages (HTML and CSS) :D
+### Hello My name is: Ana Laura and these are my first works with front end pages (HTML and CSS) :D
 
 I learned how to do all these pages by following this course: [Khanacademy](https://es.khanacademy.org/computing/computer-programming/html-css)
 
 I really recommend this course is very entertaining and interactive 
 
-![happy|emoji](https://i.pinimg.com/236x/6f/89/53/6f8953bb7b53fb4fc1e8cf69aac5dfab.jpg)
+![happy|emoji](https://i.pinimg.com/136x/6f/89/53/6f8953bb7b53fb4fc1e8cf69aac5dfab.jpg)
 
 [First-page](https://ana-lala.github.io/Pages-HTML/first-page/)
 
