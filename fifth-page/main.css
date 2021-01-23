@@ -1,0 +1,19 @@
+body {
+	font-family: monospace
+	}
+h1 {
+	color: red;
+	font-family: Fantasy;
+	text-align: center;
+	}
+
+h2 {
+	color: brown;
+	background-color: salmon;
+	font-family: Helvetica;
+	text-decoration: underline;
+	}
+p {
+	color: green;
+	
+	}
