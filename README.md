@@ -1,8 +1,10 @@
-# This is my work with front end pages
+##This pages are for study uses
 
-# I learned how to do all these pages by following this course: [Khanacademy](https://es.khanacademy.org/computing/computer-programming/html-css)
+###Hello My name is: Ana Laura and these are my first works with front end pages (HTML and CSS) :D
 
-# I recommend it is very entertaining and interactive :D
+I learned how to do all these pages by following this course: [Khanacademy](https://es.khanacademy.org/computing/computer-programming/html-css)
+
+I really recommend this course is very entertaining and interactive ![happy|emoji](https://i.pinimg.com/236x/6f/89/53/6f8953bb7b53fb4fc1e8cf69aac5dfab.jpg)
 
 [First-page](https://ana-lala.github.io/Pages-HTML/first-page/)
 
