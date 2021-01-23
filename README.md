@@ -1,17 +1,18 @@
 # This is my work with front end pages
 
+# I learned how to do all these pages by following this course: [Khanacademy](https://es.khanacademy.org/computing/computer-programming/html-css)
 
-# Pages-HTML
+# I recommend it is very entertaining and interactive :D
 
-[first-page](https://ana-lala.github.io/Pages-HTML/first-page/)
+[First-page](https://ana-lala.github.io/Pages-HTML/first-page/)
 
-[second-page](https://ana-lala.github.io/Pages-HTML/second-page/)
+[Second-page](https://ana-lala.github.io/Pages-HTML/second-page/)
 
-[third-page](https://ana-lala.github.io/Pages-HTML/third-page/)
+[Third-page](https://ana-lala.github.io/Pages-HTML/third-page/)
 
-[fourth-page](https://ana-lala.github.io/Pages-HTML/fourth-page/)
+[Fourth-page](https://ana-lala.github.io/Pages-HTML/fourth-page/)
 
-[fifth-page](https://ana-lala.github.io/Pages-HTML/fifth-page/)
+[Fifth-page](https://ana-lala.github.io/Pages-HTML/fifth-page/)
 
 
 
