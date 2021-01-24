@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>My first form</title>
+        <link href="main.css" rel="stylesheet"/>
+    </head>
+    <body>
+        <h2>Form</h2>
+        <form>
+            
+            <label class ="namelabel" for="fname">First name: </label>
+            <input type="text" id="fname" name="fname" ><br/><br/>
+            <label class ="namelabel" for="lname">Last name: </label>
+            <input type="text" id="lname" name="lname"><br/><br/>
+            
+            <label id ="gradelabel" for="grade">Select your grade</label>
+            <select id="grade" name="grade">
+                <option value="kindergarden">Kindergarden</option>
+                <option value="primary">Primary</option>
+                <option value="highschool">Highschool</option>
+                <option value="university">University</option>
+                <option value="other">Other</option>
+            </select><br><br>
+
+
+            <label id ="labelgender" for="gender">Select your gender please: </label><br/><br/>
+            
+            <input class ="radio" type="radio" id="female" name="gender" value="female">
+            <label class ="radio" for="female">Female</label><br>
+            <input class ="radio" type="radio" id="male" name="gender" value="male">
+            <label class ="radio" for="male">Male</label><br>
+            <input class ="radio" type="radio" id="other" name="gender" value="other">
+            <label class ="radio" for="other">Other</label><br><br>
+
+            <label id ="labelcolors" for="colors">Select yours favorites colors: </label><br>
+
+            <input type="checkbox" name="colors" id="blue">
+            <label id="blueoption" for="blue">Blue</label><br>
+            <input type="checkbox" name="colors" id="pink">
+            <label id="pinkoption" for="pink">Pink</label><br>
+            <input type="checkbox" name="colors" id="green">
+            <label id="greenoption" for="green">Green</label><br>
+            <input type="checkbox" name="colors" id="red">
+            <label id="redoption" for="red">Red</label><br>
+            <input type="checkbox" name="colors" id="Black">
+            <label id="blackoption" for="Black">Black</label><br>
+            <input type="checkbox" name="colors" id="purple">
+            <label id="purpleoption" for="purple">Purple</label><br><br>
+
+            <label id ="labelfoods" for="foods">Select your favorites foods: </label><br><br>
+            <select id="foods" name="foods" size="10" multiple>
+                <option value="Tacos">Tacos</option>
+                <option value="Burritos">Burritos</option>
+                <option value="Pizza">Pizza</option>
+                <option value="Spaguetti">Spaguetti</option>
+                <option value="Lasaña">Lasaña</option>
+                <option value="Tamales">Tamales</option>
+                <option value="Burger">Burger</option>
+                <option value="Hotdog">Hot dog</option>
+                <option value="Sushi">Sushi</option>
+            </select>
+
+            <p id="paragraph">Hold down the Ctrl (windows) / Command (Mac) button to select multiple options.</p>
+
+            <label id="labelmessage" for="message">Continue the story please :D</label><br><br>
+            <textarea id="message" name="message" rows="10" cols="40">Once upon time...
+            </textarea> <br><br>
+
+            <input id="button" type="button" onclick="alert('Have a nice day!!')"value="Click Me!!"><br><br>
+            <input id ="reset" type="reset"><br><br>
+            <input id="submit" type="submit" value="Submit"> <br/><br/>
+        </form>
+    </body>
+</html>

@@ -1,0 +1,139 @@
+h2{color: rgb(69, 13, 197);
+    font-weight: bold;
+    font-family: monospace;
+    font-size: 40px;
+    
+}
+
+
+.namelabel{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#fname{
+    border: 3px solid rgb(3, 65, 8);
+}
+
+#lname{
+    border: 3px solid rgb(3, 65, 8);
+}
+
+#gradelabel{
+    font-size: 20px;
+    font-family: sans-serif;
+    width:20%;
+}
+
+
+#grade{
+    font-size: 16px ;
+    width:20%;
+    background-color: rgb(201, 225, 255);
+    padding:5px;
+    border: 3px groove rgb(53, 156, 204);
+}
+
+
+#labelgender{
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+}
+.radio{
+    font-family: sans-serif;
+}
+
+#labelcolors{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#greenoption{
+    font-family: monospace;
+    font-size: 16px;
+    color: green;
+}
+#pinkoption{
+    font-family: monospace;
+    font-size: 16px;
+    color: rgb(233, 57, 86);
+}
+#blackoption{
+    font-family: monospace;
+    font-size: 16px;
+    color: black;
+}
+
+#purpleoption{
+    font-family: monospace;
+    font-size: 16px;
+    color: purple;
+}
+
+#redoption{
+    font-family: monospace;
+    font-size: 16px;
+    color: red;
+}
+
+#blueoption{
+    font-family: monospace;
+    font-size: 16px;
+    color: blue;
+}
+
+#labelfoods{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#foods{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+}
+
+#paragraph{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+#labelmessage{
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#message{
+    font-family: serif;
+    font-size: 16px;
+}
+
+#button{
+    background-color: lightcoral;
+    border: 2px solid black;
+    font-family: serif;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+#reset{
+    background-color: rgb(189, 156, 250);
+    border: 3px solid black;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+#submit{
+    font-size: 18px ;
+    widows: 5%;
+    background-color: rgb(52, 240, 115);
+    padding:5px;
+    border: 3px ridge rgb(2, 56, 5);
+}
+
