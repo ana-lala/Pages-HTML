@@ -14,10 +14,12 @@ h2{color: rgb(69, 13, 197);
 
 #fname{
     border: 3px solid rgb(3, 65, 8);
+    font-size: 15px;
 }
 
 #lname{
     border: 3px solid rgb(3, 65, 8);
+    font-size: 15px;
 }
 
 #gradelabel{
@@ -29,7 +31,6 @@ h2{color: rgb(69, 13, 197);
 
 #grade{
     font-size: 16px ;
-    width:20%;
     background-color: rgb(201, 225, 255);
     padding:5px;
     border: 3px groove rgb(53, 156, 204);
@@ -100,6 +101,7 @@ h2{color: rgb(69, 13, 197);
     font-family: Arial, Helvetica, sans-serif;
     font-size: 16px;
     font-weight: bold;
+    
 }
 
 #labelmessage{
@@ -110,7 +112,8 @@ h2{color: rgb(69, 13, 197);
 
 #message{
     font-family: serif;
-    font-size: 16px;
+    font-size: 20px;
+    border: 2px solid black;
 }
 
 #button{
@@ -137,3 +140,10 @@ h2{color: rgb(69, 13, 197);
     border: 3px ridge rgb(2, 56, 5);
 }
 
+
+/*DIVS*/
+
+div{
+    float: left;
+    padding: 10px;
+}

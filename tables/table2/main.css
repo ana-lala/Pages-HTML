@@ -1,0 +1,15 @@
+#caption{
+    font-family: sans-serif;
+    font-weight: bolder;
+    font-size: 15px;
+    text-align: center;
+    padding: 5px;
+}
+
+table, th, td {
+    border: 1px solid black;
+    font-family: sans-serif;
+    text-align: center;
+    border-collapse: collapse;
+    width: 40%;
+  }
