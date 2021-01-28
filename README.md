@@ -22,7 +22,7 @@ I really recommend this course is very entertaining and interactive ;)
 
 #### These are my tables :D
 
-[Table one](https://ana-lala.github.io/Pages-HTML/fifth-page/table1)
+[Table one](https://ana-lala.github.io/Pages-HTML/tables/table1/)
 
-[Table two](https://ana-lala.github.io/Pages-HTML/fifth-page/tables/table2)
+[Table two](https://ana-lala.github.io/Pages-HTML/tables/table2/)
 
